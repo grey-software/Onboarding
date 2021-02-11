@@ -11,5 +11,8 @@
   "dependencies": {
     "@nuxt/content-theme-docs": "^0.8.0",
     "nuxt": "^2.14.7"
+  },
+  "devDependencies": {
+    "@nuxtjs/pwa": "^3.3.5"
   }
 }
