@@ -5,14 +5,6 @@ export default theme({
     primaryColor: '#64748b'
   }
 })
-
 {
-  buildModules: [
-    '@nuxtjs/pwa',
-  ]
-}
-pwa: {
-  icon: {
-    gitlab: 'icon.png'
-  }
+    
 }
