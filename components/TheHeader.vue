@@ -60,6 +60,15 @@
           aria-label="github"
         >
           <IconGithub class="w-8 h-8" />
+          <a
+          v-if="$config.githubOwner"
+          :href="`https://github.com/${$config.githubOwner}`"
+          target="_blank"
+          class="hidden sm:block ml-3"
+          rel="noopener"
+          aria-label="github"
+        >
+          <IconGithub class="w-8 h-8" />
         </a>
       </div>
     </div>

@@ -5,38 +5,15 @@ position: 1
 category: Guide
 ---
 
-Check the [Nuxt.js documentation](https://nuxtjs.org/guides/configuration-glossary/configuration-modules) for more information about installing and using modules in Nuxt.js.
+Welcome to Grey Software! 
 
-## Installation
+The team is excited to have you join us, and we've prepared this onboarding website so that by the end, you: 
 
-Add `@nuxtjs/xxx` dependency to your project:
+- Become familiar with our values
+- Understand our technology stack
+- Become aware of our web ecosystem
+- Have the digital accounts necessary to participate
+- Complete an operational workflow on our org website where you will add yourself to the [Organization Team Page](https://org.grey.software/team)
 
-<code-group>
-  <code-block label="Yarn" active>
 
-  ```bash
-  yarn add @nuxtjs/xxx
-  ```
-
-  </code-block>
-  <code-block label="NPM">
-
-  ```bash
-  npm install @nuxtjs/xxx
-  ```
-
-  </code-block>
-</code-group>
-
-Then, add `@nuxtjs/xxx` to the `modules` section of `nuxt.config.js`:
-
-```js[nuxt.config.js]
-{
-  modules: [
-    '@nuxtjs/xxx'
-  ],
-  xxx: {
-    // Options
-  }
-}
-```
+[Let's Get Started](GitHubAccount.md)
