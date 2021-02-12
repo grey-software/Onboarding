@@ -13,6 +13,7 @@
     "nuxt": "^2.14.7"
   },
   "devDependencies": {
-    "@nuxtjs/pwa": "^3.3.5"
+    "@nuxtjs/pwa": "^3.3.5",
+    "@nuxtjs/vuetify": "^1.11.3"
   }
 }
