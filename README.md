@@ -1,10 +1,4 @@
-# Onboarding
-
-Welcome to Grey Software! Let's get started with your onboarding process 🎬
-
-### This repository is currently a work in progress
-
-## Following Issue Created to Solve the Errors 
+# Following issues Created to Solve the Following Errors 
 
 
 - [ ] [TheHeader.vue Component Not Working](https://gitlab.com/grey-software/onboarding/-/issues/3)
