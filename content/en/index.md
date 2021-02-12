@@ -16,4 +16,4 @@ The team is excited to have you join us, and we've prepared this onboarding webs
 - Complete an operational workflow on our org website where you will add yourself to the [Organization Team Page](https://org.grey.software/team)
 
 
-[Let's Get Started](GitHubAccount.md)
+[Let's Get Started](../GitHubAccount.md)
