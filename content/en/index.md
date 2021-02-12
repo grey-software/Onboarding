@@ -1,27 +1,42 @@
 ---
-title: Introduction
+title: Welcome Onboard
 description: ''
 position: 1
-category: ''
-features:
-  - Feature 1
-  - Feature 2
-  - Feature 3
+category: Guide
 ---
 
-<img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
-<img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
+Check the [Nuxt.js documentation](https://nuxtjs.org/guides/configuration-glossary/configuration-modules) for more information about installing and using modules in Nuxt.js.
 
-[Module]() for [NuxtJS](https://nuxtjs.org).
+## Installation
 
-<alert type="success">
+Add `@nuxtjs/xxx` dependency to your project:
 
-Your documentation has been created successfully!
+<code-group>
+  <code-block label="Yarn" active>
 
-</alert>
+  ```bash
+  yarn add @nuxtjs/xxx
+  ```
 
-## Features
+  </code-block>
+  <code-block label="NPM">
 
-<list :items="features"></list>
+  ```bash
+  npm install @nuxtjs/xxx
+  ```
 
-<p class="flex items-center">Enjoy light and dark mode:&nbsp;<app-color-switcher class="inline-flex ml-2"></app-color-switcher></p>
+  </code-block>
+</code-group>
+
+Then, add `@nuxtjs/xxx` to the `modules` section of `nuxt.config.js`:
+
+```js[nuxt.config.js]
+{
+  modules: [
+    '@nuxtjs/xxx'
+  ],
+  xxx: {
+    // Options
+  }
+}
+```
