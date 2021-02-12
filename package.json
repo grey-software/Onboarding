@@ -3,14 +3,18 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "setup": "yarn",
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxt/components": "^2.0.0-0",
     "@nuxt/content-theme-docs": "^0.8.0",
-    "nuxt": "^2.14.7"
+    "@nuxtjs/tailwindcss": "^3.4.2",
+    "nuxt": "^2.14.7",
+    "theme-colors": "^0.0.5"
   },
   "devDependencies": {
     "@nuxtjs/pwa": "^3.3.5"

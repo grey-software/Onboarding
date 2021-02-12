@@ -1,3 +1,5 @@
+tasks:
+  - init: yarn setup
 vscode:
   extensions:
     - octref.vetur@0.32.0:03mwRhlVpWDul4qBChcVUA==

@@ -1126,6 +1126,20 @@
     upath "^2.0.1"
     vue-template-compiler "^2.6.12"
 
+"@nuxt/components@^2.0.0-0":
+  version "2.0.0-0"
+  resolved "https://registry.yarnpkg.com/@nuxt/components/-/components-2.0.0-0.tgz#bfa69cfa3c6c708ca240a716b64b1b91c746cef7"
+  integrity sha512-s10biEAxJdKtcn6P+jFoJLTiCrHKCiEkbxInuzJ26Tle5QmFhOjhJ5Wfcrnfo3h6o7dQPfqg+KaLnzW7t8bbZA==
+  dependencies:
+    chalk "^4.1.0"
+    chokidar "^3.5.1"
+    glob "^7.1.6"
+    globby "^11.0.2"
+    lodash "^4.17.20"
+    semver "^7.3.4"
+    upath "^2.0.1"
+    vue-template-compiler "^2.6.12"
+
 "@nuxt/config@2.14.12":
   version "2.14.12"
   resolved "https://registry.yarnpkg.com/@nuxt/config/-/config-2.14.12.tgz#077267c94ac4d30ed38f7642236f3523ee5280f2"
@@ -1483,7 +1497,7 @@
     serve-static "^1.14.1"
     workbox-cdn "^5.1.4"
 
-"@nuxtjs/tailwindcss@^3.2.0":
+"@nuxtjs/tailwindcss@^3.2.0", "@nuxtjs/tailwindcss@^3.4.2":
   version "3.4.2"
   resolved "https://registry.yarnpkg.com/@nuxtjs/tailwindcss/-/tailwindcss-3.4.2.tgz#2376877b7e3fff35c044e99828d5e7cacfec5621"
   integrity sha512-Hv1b/4zYaffNc0JHss3jqKLZoPRQfG7upxGguP749Zx2VgMyFExeT3NMAxntLHctKvv/ohN+5kFGiewZGI5n2A==
