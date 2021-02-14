@@ -3,25 +3,12 @@ title: Introduction
 description: ''
 position: 1
 category: ''
-features:
-  - Feature 1
-  - Feature 2
-  - Feature 3
 ---
 
-<img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
-<img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
+# Onboarding
 
-[Module]() for [NuxtJS](https://nuxtjs.org).
+Welcome to Grey Software! Let's get started with your onboarding process 🎬
 
-<alert type="success">
+### This repository is currently a work in progress
 
-Your documentation has been created successfully!
-
-</alert>
-
-## Features
-
-<list :items="features"></list>
-
-<p class="flex items-center">Enjoy light and dark mode:&nbsp;<app-color-switcher class="inline-flex ml-2"></app-color-switcher></p>
+[Check out our latest progress here](https://deploy-preview-2--reverent-raman-79b8f6.netlify.app/)
