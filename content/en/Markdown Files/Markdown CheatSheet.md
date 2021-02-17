@@ -33,8 +33,115 @@ link: https://codesandbox.io/embed/markdown-previewer-forked-rjfbl?fontsize=14&h
   *asterisks* or _underscores_
   ```
  </code-block>
+
+<code-block label="Strong Emphasis">
+
+
+  ```
+  **asterisks** or __underscores__
+  ```
+ </code-block>
+
+<code-block label="Strikethrough">
+
+
+  ```
+  ~~Scratch this.~~
+  ```
+ </code-block>
+
+</code-group>
+
+## Links
+
+<code-group>
+<code-block label="Inline-style link" active>
+
+
+  ```
+  [I'm an inline-style link](https://grey.software/)
+  ```
+ </code-block>
+
+ <code-block label="Inline-style link with title">
+
+
+  ```
+  [I'm an inline-style link with title](https://grey.software/ "Grey Software")
+  ```
+ </code-block>
+ </code-group>
+
+## Images
+
+<code-group>
+<code-block label="Italic Emphasis" active>
+
+
+  ```
+  Inline-style: 
+![alt text](https://grey.software/logo.png "Grey Software")
+  ```
+ </code-block>
+
+ <code-block label="Reference-style">
+
+
+  ```
+  Reference-style: 
+![alt text](https://grey.software/logo.png)
+  ```
+ </code-block>
+
+ 
+
+ </code-group>
+
+## Code and Syntax Highlighting
+
+<code-group>
+<code-block label="JavaScript" active >
+
+```
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);```
+    
+```
+</code-block>
+
+<code-block label="Python" >
+
+```
+```python
+s = "Python syntax highlighting"
+print s```
+    
+```
+
+
+</code-block>
+
+
 </code-group>
 
 
+## Tables
+
+<code-group>
+<code-block label="Tables" active >
+
+```
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+```
+
+
+</code-block>
+</code-group>
 ## SandBox
 <code-sandbox :src="link"></code-sandbox>
