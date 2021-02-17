@@ -187,5 +187,5 @@ print s```
 ```
 </code-group>
 
-## SandBox
+## MarkDown PlayGround
 <code-sandbox :src="link"></code-sandbox>
