@@ -9,16 +9,23 @@ link: https://codesandbox.io/embed/markdown-previewer-forked-rjfbl?fontsize=14&h
 ## Headers
 
 <code-group>
-<code-block label="Header" active>
+<code-block label="Markdown" active>
 
 ```
 # H1
 ## H2
 ### H3
 #### H4
-##### H5
-###### H6
+
   ```
+  </code-block>
+<code-block label="Output">
+<br></br>
+
+# H1
+## H2
+### H3
+#### H4
 
  </code-block>
 </code-group>
