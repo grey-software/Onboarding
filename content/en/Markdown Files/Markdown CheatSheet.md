@@ -143,5 +143,49 @@ print s```
 
 </code-block>
 </code-group>
+
+## Blockquotes
+
+<code-group>
+<code-block label="BlockQuotes" active >
+
+```
+> Blockquotes are very handy in email to emulate reply text.
+> This line is part of the same quote.
+```
+
+</code-block>
+
+</code-group>
+
+## Inline HTML
+
+<code-group>
+<code-block label="Inline HTML" active >
+
+```
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+```
+
+</code-block>
+
+</code-group>
+
+## YouTube Videos
+
+<code-group>
+<code-block label="YouTube Videos"  active >
+
+```
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+```
+</code-group>
+
 ## SandBox
 <code-sandbox :src="link"></code-sandbox>
