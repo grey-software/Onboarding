@@ -3,7 +3,7 @@ title: Markdown CheatSheet
 description: ''
 position: 7
 category: Learn Basics of Markdown Language
-link: https://codesandbox.io/embed/markdown-previewer-forked-rjfbl?fontsize=14&hidenavigation=1&theme=dark&view=preview
+link: https://codesandbox.io/embed/markdown-live-preview-react-code-challenge-forked-85j0o?fontsize=14&hidenavigation=1&theme=light&view=preview
 ---
 <badge>v1.2+</badge>
 ## Headers
@@ -30,10 +30,10 @@ link: https://codesandbox.io/embed/markdown-previewer-forked-rjfbl?fontsize=14&h
  </code-block>
 </code-group>
 
-## Emphasis
+## Italic Emphasis
 
 <code-group>
-<code-block label="Italic Emphasis" active>
+<code-block label="Markdown" active>
 
 
   ```
@@ -41,73 +41,91 @@ link: https://codesandbox.io/embed/markdown-previewer-forked-rjfbl?fontsize=14&h
   ```
  </code-block>
 
-<code-block label="Strong Emphasis">
+ <code-block label="Output">
 
+ *asterisks* or _underscores_
 
+ </code-block>
+</code-group>
+
+## Strong Emphasis
+
+<code-group>
+<code-block label="Markdown" active>
+
+  
   ```
   **asterisks** or __underscores__
   ```
  </code-block>
 
-<code-block label="Strikethrough">
+ <code-block label="Output">
 
+  **asterisks** or __underscores__
 
-  ```
+ </code-block>
+</code-group>
+
+## Strikethrough
+
+<code-group>
+<code-block label="Markdown" active>
+
+  
+   ```
   ~~Scratch this.~~
   ```
  </code-block>
 
+ <code-block label="Output">
+
+  
+ ~~Scratch this.~~
+
+ </code-block>
 </code-group>
 
-## Links
+
+## Inline-style link
 
 <code-group>
-<code-block label="Inline-style link" active>
+<code-block label="Markdown" active>
 
-
-  ```
+ ```
   [I'm an inline-style link](https://grey.software/)
   ```
  </code-block>
 
- <code-block label="Inline-style link with title">
+ <code-block label="Output">
 
+ [I'm an inline-style link](https://grey.software/)
 
-  ```
+ </code-block>
+</code-group>
+
+## Inline-style link with title
+
+<code-group>
+
+<code-block label="Markdown" active>
+
+ ```
   [I'm an inline-style link with title](https://grey.software/ "Grey Software")
   ```
  </code-block>
- </code-group>
 
-## Images
+ <code-block label="Output">
 
-<code-group>
-<code-block label="Italic Emphasis" active>
+ [I'm an inline-style link with title](https://grey.software/ "Grey Software")
 
-
-  ```
-  Inline-style: 
-![alt text](https://grey.software/logo.png "Grey Software")
-  ```
  </code-block>
 
- <code-block label="Reference-style">
+</code-group>
 
-
-  ```
-  Reference-style: 
-![alt text](https://grey.software/logo.png)
-  ```
- </code-block>
-
- 
-
- </code-group>
-
-## Code and Syntax Highlighting
+## Code and Syntax Highlighting Using JavaScript
 
 <code-group>
-<code-block label="JavaScript" active >
+<code-block label="Markdown" active>
 
 ```
 ```javascript
@@ -115,9 +133,23 @@ var s = "JavaScript syntax highlighting";
 alert(s);```
     
 ```
-</code-block>
+ </code-block>
 
-<code-block label="Python" >
+ <code-block label="Output">
+
+ ```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+
+ </code-block>
+</code-group>
+
+
+## Code and Syntax Highlighting Using Python
+
+<code-group>
+<code-block label="Markdown" active>
 
 ```
 ```python
@@ -125,18 +157,41 @@ s = "Python syntax highlighting"
 print s```
     
 ```
+ </code-block>
 
+ <code-block label="Output">
 
-</code-block>
+```python
+s = "Python syntax highlighting"
+print s
+```
 
+ </code-block>
+</code-group>
 
+## Image with Title
+
+<code-group>
+<code-block label="Markdown" active>
+
+```
+![alt text](https://grey.software/logo.png "Grey Software")
+
+```
+
+ </code-block>
+
+ <code-block label="Output">
+
+![alt text](https://grey.software/logo.png "Grey Software")
+
+ </code-block>
 </code-group>
 
 
 ## Tables
-
 <code-group>
-<code-block label="Tables" active >
+<code-block label="Markdown" active>
 
 ```
 | Tables        | Are           | Cool  |
@@ -147,28 +202,44 @@ print s```
 
 ```
 
+ </code-block>
 
-</code-block>
+ <code-block label="Output">
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+ </code-block>
 </code-group>
 
 ## Blockquotes
 
+
 <code-group>
-<code-block label="BlockQuotes" active >
+<code-block label="Markdown" active>
 
 ```
 > Blockquotes are very handy in email to emulate reply text.
 > This line is part of the same quote.
 ```
 
-</code-block>
+ </code-block>
 
+ <code-block label="Output">
+
+> Blockquotes are very handy in email to emulate reply text.
+> This line is part of the same quote.
+
+ </code-block>
 </code-group>
 
 ## Inline HTML
 
 <code-group>
-<code-block label="Inline HTML" active >
+<code-block label="Markdown" active>
 
 ```
 <dl>
@@ -180,18 +251,40 @@ print s```
 </dl>
 ```
 
-</code-block>
 
+ </code-block>
+
+ <code-block label="Output">
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
+ </code-block>
 </code-group>
 
 ## YouTube Videos
 
 <code-group>
-<code-block label="YouTube Videos"  active >
+<code-block label="Markdown" active>
 
 ```
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 ```
+
+
+ </code-block>
+
+ <code-block label="Output">
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+ </code-block>
 </code-group>
 
 ## MarkDown PlayGround

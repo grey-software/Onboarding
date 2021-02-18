@@ -3,7 +3,7 @@
 <!--- load iframe Youtube player inside this div -->
 <iframe 
 style="border: 1; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" 
-src="https://www.youtube-nocookie.com/embed/HUBNt18RFbo?start=65&end=900" 
+:src="`https://www.youtube-nocookie.com/embed/${videoId}?start=${start}&end=${end}`" 
 allowfullscreen scrolling="no" 
 allow="encrypted-media; accelerometer; 
 gyroscope; picture-in-picture">
@@ -15,8 +15,9 @@ gyroscope; picture-in-picture">
 <script>
 export default {
 props:{
-VideoId: string
-}
-
+videoId: string,
+start: number,
+end : number
+}}
 
 </script>
