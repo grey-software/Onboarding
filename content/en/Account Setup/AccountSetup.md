@@ -1,9 +1,12 @@
 ---
-title: Account Setup Manual
+title: Why GitHub and GitLab ?
 description: ''
 position: 2
 category: Account Setup
 ---
+
+## Why GitHub ?
+
 
 ## How to Setup GitHub Account
 
