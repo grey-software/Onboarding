@@ -51,6 +51,17 @@
           <IconTwitter class="w-6 h-6" />
         </a>
 
+           <a
+          v-if="$config.gitLab"
+          :href="`https://gitLab/${$config.gitLab}`"
+          target="_blank"
+          class="hidden sm:block ml-8"
+          rel="noopener"
+          aria-label="twitter"
+        >
+          <IconGitlab class="w-6 h-6" />
+        </a>
+
         <a
           v-if="$config.githubOwner"
           :href="`https://github.com/${$config.githubOwner}`"
