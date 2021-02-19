@@ -15,9 +15,11 @@ gyroscope; picture-in-picture">
 <script>
 export default {
 props:{
-videoId: string,
-start: number,
-end : number
-}}
+videoId: String,
+start: Number,
+end : Number,
+},
+
+};
 
 </script>

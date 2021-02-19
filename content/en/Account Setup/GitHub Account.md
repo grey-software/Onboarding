@@ -1,5 +1,5 @@
 ---
-title: GitHub Account Setup 
+title: GitHub Account Setup
 description: ''
 position: 2
 category: Account Setup
