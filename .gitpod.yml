@@ -3,3 +3,4 @@ tasks:
 vscode:
   extensions:
     - octref.vetur@0.32.0:03mwRhlVpWDul4qBChcVUA==
+    - esbenp.prettier-vscode@5.9.2:/ZjVG4nabMGxTqOcyglnfQ==

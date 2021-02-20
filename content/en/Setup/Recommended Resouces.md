@@ -15,3 +15,5 @@ category: Setup
 ## GitHub Student Developer Pack
 
 ## Figma
+
+## Jetbrain learning Resources
