@@ -1,6 +1,6 @@
 ---
 title: Your First Contributions to Grey Software
 description: ''
-position: 9
+position: 8
 category: Contributions
 ---

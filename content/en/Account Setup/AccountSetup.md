@@ -21,7 +21,7 @@ category: Account Setup
 <alert>
 
 if you have already an GitHub Account You can go to 
-[GitLab Account Setup](/AccountSetup#how-to-create-gitlab-account)
+[GitLab Account Setup](/Account%20Setup/AccountSetup#how-to-setup-gitlab-account)
 
 </alert>
 
@@ -39,9 +39,3 @@ if you have already an GitHub Account You can go to
 
 4. Congratulations! Your GitLab Account Has been Created . 
 
-<alert>
-
-if you have already an GitLab Account You can go to 
-[Discord Account Setup](/Account/Discord%20Account)
-
-</alert>
