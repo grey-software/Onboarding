@@ -6,14 +6,18 @@ category: Setup
 ---
 
 
-## Bitwarden Account 
+## Bitwarden 
+
+## Setup your Bitwarden Account
 
 ## Brave Browser or Firefox 
 
-## Visbug
+## VisBug
 
-## GitHub Student Developer Pack
+## Setup your VisBug Account
 
 ## Figma
 
+
+## Setup your Figma Account
 ## Jetbrain learning Resources
