@@ -5,9 +5,36 @@ position: 2
 category: Intro
 ---
 
+By the end of your onboarding process, we hope to equip you with the essential open source knowledge we think would best prepare you to collaborate with us. 
+
+This preparation is made up of:
+
+- Setting you up with essential accounts 
+- Providing guidance and resources to help you learn core concepts and tools that facilitate distributed software development
+- Walking you through an example development workflow that will give you a plied experience with our process
+
+
+
+## How can software developers from different parts of the world collaborate
+
+When you were working with software developers from around the world on a project, you need to know:
+
+* What changes were made since your last collaboration
+* Who made those changes
+* When were those changes made
+* Why were those changes needed
+
+Messaging your teammates about which file you're changing and telling them to keep their fingers off is not the optimal workflow. Neither is storing .zip snapshots of your code on a shared online drive. 
+
+To get around this issue, we use a version control system, or a VCS. 
+
+A VCS allows multiple people to work on the same set of files in structured harmony. Team members can work on any project file on their local version and merge their changes into a shared version. The latest version of a file or the whole project is always in a shared location managed by the VCS.
+
+
 ## What is Version Control System 
 
 A version control system (VCS), tracks the history of changes as people and teams collaborate on projects together. As the project evolves, teams can run tests, fix bugs, and contribute new code with the confidence that any version can be recovered at any time. Developers can review project history to find out:
+
 * Which changes were made
 * Who made the changes
 * When were the changes made
@@ -20,10 +47,14 @@ A distributed version control system (DVCS) is a type of version control where t
 ## What is Git?
 
 Git is a source distributed version control system which means that you can track your changes in computer files and coordinating work on those files among multiple people. So, that’s why Git is called a distributed version control system. 
-For example, At any point, you are working on a project and your project hit with a fatal error and you don’t know what causes it so with the help of Git you can also revert to the stable state of the project.<br></br>
-Git also helps you to synchronize your project between the different people remotely. For example, you are working with your team members on a project and whenever you make changes in the file, git takes those changes and merge them into a repository actually Git stores information about the project’s progress on a repository So you don’t need to worry about mailing your files each time with your team and this is how collaborating remotely can be done easily using git.
 
-<cta-button  link="https://git-scm.com/downloads" text="Download Git" >  </cta-button>
+For example, At any point, you are working on a project and your project hit with a fatal error and you don’t know what causes it so with the help of Git you can also revert to the stable state of the project.<br></br>
+
+Git also helps you to synchronize your project between the different people remotely. For example, you are working with your team members on a project and whenever you make changes in the file, git takes those changes and merge them into a repository actually Git stores information about the project’s progress on a repository 
+
+So you don’t need to worry about mailing your files each time with your team and this is how collaborating remotely can be done easily using git.
+
+
 ## Why Git?
 
 According to the latest Stack Overflow developer survey, more than 70 percent of developers use Git, making it the most-used VCS in the world. Git is a free and open-source distributed version control system.
