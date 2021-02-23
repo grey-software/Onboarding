@@ -5,7 +5,8 @@ position: 4
 category: Learning Markdown
 link: https://codesandbox.io/embed/markdown-live-preview-react-code-challenge-forked-85j0o?fontsize=14&hidenavigation=1&theme=light&view=preview
 ---
-<badge>v1.2+</badge>
+
+
 ## Headers
 
 <code-group>

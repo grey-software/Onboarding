@@ -10,7 +10,7 @@ category: Setup
 
 ## Setup your Bitwarden Account
 
-## Brave Browser or Firefox 
+## Brave Browser and Firefox 
 
 ## VisBug
 
