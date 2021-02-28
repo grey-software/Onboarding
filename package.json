@@ -10,9 +10,8 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@nuxt/content-theme-docs": "^0.8.0",
-    "@nuxtjs/tailwindcss": "^3.4.2",
-    "nuxt": "^2.14.7",
-    "theme-colors": "^0.0.5"
+    "nuxt-content-docs-theme-grey": "^0.11.3",
+    "nuxt": "^2.15.2"
+
   }
 }

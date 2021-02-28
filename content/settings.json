@@ -2,12 +2,13 @@
   "title": "Grey Software Onboarding ",
   "url": "https://onboarding.grey.software/",
   "logo": {
-    "light": "/grey-icon.png",
-    "dark": "/grey-icon.png"
+    "light": "/icon.png",
+    "dark": "/icon.png"
   },
-  "github": "grey-software/onboarding",
-  "gitLab": "grey-software/onboarding",
-  "twitter": "@grey_software"
+  "githubUrl": "https://github.com/grey-software",
+  "gitlabUrl": "https://gitlab.com/grey-software",
+  "discordUrl": "http://community.grey.software",
+  "linkedinUrl": "https://www.linkedin.com/company/grey-software/",
+  "twitter": "/grey-software"
 
- 
 }
