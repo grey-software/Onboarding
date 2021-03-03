@@ -2,7 +2,7 @@
   <a :href="link" target="_blank">
     <button
       type="button"
-      class="btn-transition focus:outline-none dark:text-white light:text-gray-800 text-md py-3 px-5 rounded-md border border-gray-800 hover:text-white hover:bg-primary-500"
+      class="btn-transition focus:outline-none dark:text-white light:text-gray-800 text-md py-2 px-5 rounded-md border border-gray-800 dark:border-white hover:text-white hover:bg-primary-500"
     >
       {{ text }}
     </button>

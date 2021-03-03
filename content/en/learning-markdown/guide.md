@@ -3,10 +3,8 @@ title: Markdown Guide
 description: ''
 position: 4
 category: Learning Markdown
-link: https://codesandbox.io/embed/markdown-live-preview-react-code-challenge-forked-85j0o?fontsize=14&hidenavigation=1&theme=light&view=preview
+link: https://codesandbox.io/embed/z250ko9nvp?fontsize=14&hidenavigation=1&theme=dark&view=preview
 ---
-
-
 ## Headers
 
 <code-group>
@@ -268,25 +266,6 @@ print s
  </code-block>
 </code-group>
 
-## YouTube Videos
 
-<code-group>
-<code-block label="Markdown" active>
-
-```
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
-```
-
-
- </code-block>
-
- <code-block label="Output">
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
- </code-block>
-</code-group>
-
-## MarkDown PlayGround
+## Markdown Playground
 <code-sandbox :src="link"></code-sandbox>

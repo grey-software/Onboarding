@@ -5,46 +5,16 @@ position: 8
 category: Contributing
 ---
 
-Alright! You're now ready to get started with your first contribution to Grey Software! 
+Congratulations on setting up your accounts and familiarizing yourself with Markdown! 🥳
+
+You're now ready to get started with your first contribution to Grey Software! 💪
 
 You'll use modern software development tools to add your profile to https://org.grey.software/team *without leaving your browser*!
 
-## Creating a new branch
+Our contribution guide will include a little bit of software development theory that you may or may not be familiar with. 
 
-Got to the **https://gitlab.com/grey-software/org** and create your new branch 
+If you're a seasoned software developer familiar with contributing to Git-based projects, you can go ahead and skip to the action items section of each page. 👍
 
-![alt text](/Creating_a_branch.png "Creating a new branch")
-
-enter the branch name for example : **YOUR_GITLAB_USERNAME** and then click 
-
-![alt text](/onboarding_creating_branch.png "Creating a new branch")
-
-### Create your profile data model
-
-<code-group>
-<code-block label="YAML" active>
-
-
-  ```
-  name: YOUR_NAME_HERE
-  avatar: https://gitlab.com/uploads/-/system/user/avatar/2274539/avatar.png
-  github: <YOUR GitHUB LINK>
-  gitlab: <YOUR GITLAB LINK>
-  linkedin: <YOUR LINKEDIN LINK>
-  ```
- </code-block>
-
- </code-group>
-
-**_you can add your avatar link by go to your Gitlab Profile . Right Clicking and Copy the Image Address_**
-
-## Find your subgroup
-
-
-| Staff | University Apprentices | Board of Directors | Advisory Board | Volunteer    |
-| ----- | ---------------------- | ------------------ | -------------- | ---          |
-|       |                        |                  |                |              |
-| [Staff](https://gitlab.com/grey-software/org/-/blob/master/content/en/Team/staff.md)  | [University Apprentices](https://gitlab.com/grey-software/org/-/blob/master/content/en/university-apprentice/uet-mardan.md)                |     [Board of Directors](https://gitlab.com/grey-software/org/-/blob/master/content/en/Team/board-of-directors.md)               |              [Advisory Board](https://gitlab.com/grey-software/org/-/blob/master/content/en/Team/advisory-board.md)  | [Volunteer](https://gitlab.com/grey-software/org/-/blob/master/content/en/Team/volunteers.md)            |
 
 ## Merge Request
 
