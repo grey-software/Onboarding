@@ -5,6 +5,10 @@ position: 3
 category: Learning Markdown
 ---
 
+Congratulations on getting your accounts and development tools up! 🏁
+
+Before we get to your first contribution, we would like to ensure you know one more language that's essential to how we communicate over the web: 
+
 Markdown offers a simple way for people who code and those who don't to write and format text without having to rely on HTML or WYSIWYG editors.
 
 <alert>

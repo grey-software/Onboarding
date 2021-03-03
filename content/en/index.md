@@ -5,7 +5,7 @@ position: 1
 category: Intro
 ---
 
-Welcome to the **Grey Software Onboarding Process**. We are delighted to have you join our mission to empower people, to create and use open-source software (OSS). 
+Welcome to the **Grey Software Onboarding Process**. We are delighted to have you join our mission to empower people to create and use open-source software (OSS). 
 
 If you are new to the world of OSS development, this will be a great opportunity for you to get your first contribution.
 

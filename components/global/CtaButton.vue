@@ -1,47 +1,29 @@
 <template>
-
-<a :href="link" target="_blank"><button  class="button" >{{text}}</button> </a>
-
+  <a :href="link" target="_blank">
+    <button
+      type="button"
+      class="btn-transition focus:outline-none dark:text-white light:text-gray-800 text-md py-3 px-5 rounded-md border border-gray-800 hover:text-white hover:bg-primary-500"
+    >
+      {{ text }}
+    </button>
+  </a>
 </template>
 
 <script>
-
-
 export default {
-props:{
-
-text: String,
-link: String,
-
-},
+  props: {
+    text: String,
+    link: String,
+  },
 };
-
-
-
-
 </script>
 
 <style scoped>
-
-.button {
-
-background-color: hsl(218, 17%, 35%);
-border-color: #e5e7eb;
-border-radius: 8px;
-color: #ffffff;
-font-weight: 600;
-gap: normal;
-line-height: 24px;
-padding: 12px 20px;
-
+.btn-transition {
+transition-property: all;
+transition-timing-function: ease-out;
+transition-duration: 200ms;
 }
 
-.button:hover {background-color: #3e8e41}
-
-.button:active {
-  background-color: #3e8e41;
-  box-shadow: 0 5px #666;
-  transform: translateY(4px);
-}
 </style>
 
