@@ -1,15 +1,17 @@
 {
-  "name": "onboarding",
+  "name": "onboarding.grey.software",
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "setup": "yarn",
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@nuxt/content-theme-docs": "^0.8.0",
-    "nuxt": "^2.14.7"
+    "nuxt-content-docs-theme-grey": "^0.11.3",
+    "nuxt": "^2.15.2"
+
   }
 }
