@@ -19,7 +19,23 @@ The word Frontmatter comes from the term for the pages that precede the main tex
 
 ### Profile Data in YAML Frontmatter
 
-The profile cards you see on our [org website's team page](https://org.grey.software/team) come from YAML frontmatter that is rendered into a markdown components.  
+The profile cards you see on our [org website's team page](https://org.grey.software/team) come from:
+
+➡️ YAML frontmatter that is rendered
+
+➡️ By a Vue component from 
+
+➡️ Inside a Markdown file that is parsed 
+
+➡️ By the Nuxt framework's content module. 
+
+**But don't worry, you won't have to understand Nuxt or write Vue code to add your profile card**
+
+We've configured the website so that simply adding your profile to the YAML frontmatter can render your profile card on the website!
+
+![YAML](/team-yaml.png)
+
+![Nuxt Content Vue Component](/team-vue.png)
 
 ## Action Items
 
