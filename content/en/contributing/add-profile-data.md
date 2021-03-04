@@ -1,18 +1,29 @@
 ---
-title: Create your profile data model
+title: Add your profile data
 description: To put your profile up on our organization website, you first need to create a data model and find your subgroup.
 position: 10
 category: Contributing
 ---
 
-## Your profile data model
+## Your profile's data model
 
-TODO: Give YAML & Frontmatter Overview 
+### YAML FrontMatter
 
+YAML is a flexible, data-oriented language that is mostly used to write configuration files. 
+
+YFM is an optional section of valid YAML that is placed at the top of a page and is used for maintaining metadata for the page and its contents.
+
+<alert>
+The word Frontmatter comes from the term for the pages that precede the main text of a book, such as the title page and preface.
+</alert>
+
+### Profile Data in YAML Frontmatter
+
+The profile cards you see on our [org website's team page](https://org.grey.software/team) come from YAML frontmatter that is rendered into a markdown components.  
 
 ## Action Items
 
-✅ Create Profile Data Model
+✅ Create your profile data model
 
 <code-group>
 <code-block label="YAML" active>

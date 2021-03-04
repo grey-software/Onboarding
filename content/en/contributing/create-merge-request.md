@@ -1,7 +1,7 @@
 ---
 title: Create your merge request
 description: To put your profile up on our organization website, you first need to create a data model and find your subgroup.
-position: 10
+position: 11
 category: Contributing
 ---
 
@@ -25,7 +25,7 @@ We now need to merge these changes into the master branch so we can see our prof
 
 ✅ Click on the **create merge request** as shown in the below figure
 
-![alt text](/Merge-req.png "Merge Request")
+![alt text](/Merge-request.png "Merge Request")
 
 Inside your Merge Pull Request,
 
@@ -42,7 +42,7 @@ Your reviewer will review your changes and merge them into the master branch if 
 
 Now...we wait!
 
-![alt text](/Merged.png "Merge Request")
+![alt text](/Pipelines.png "Merge Request")
 
 Once your merge request has been approved to your designated team page inside of https://org.grey.software and you'll see your Profile Card.
 
