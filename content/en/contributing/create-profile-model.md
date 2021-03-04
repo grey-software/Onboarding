@@ -7,15 +7,22 @@ category: Contributing
 
 ## Your profile data model
 
+TODO: Give YAML & Frontmatter Overview 
+
+
+## Action Items
+
+✅ Create Profile Data Model
+
 <code-group>
 <code-block label="YAML" active>
 
 ```
-name: YOUR_NAME_HERE
-avatar: https://gitlab.com/uploads/-/system/user/avatar/2274539/avatar.png
-github: <YOUR GitHUB LINK>
-gitlab: <YOUR GITLAB LINK>
-linkedin: <YOUR LINKEDIN LINK>
+name: YOUR_NAME
+avatar: YOUR_AVATAR_LINK
+github: YOUR_GITHUB_LINK
+gitlab: YOUR_GITLAB_LINK
+linkedin: YOUR_LINKEDIN_LINK
 ```
 
  </code-block>
@@ -26,7 +33,7 @@ linkedin: <YOUR LINKEDIN LINK>
 You can find your avatar link by clicking 'Copy Image Address' after right clicking on your Github or Gitlab profile picture. 
 </alert>
 
-## Find your subgroup
+✅ Find your subgroup
 
 ### Staff
 
@@ -48,3 +55,5 @@ If you are a university apprentice, find your university's page under the /conte
 
 <cta-button text="Universities Folder" link="https://gitlab.com/grey-software/org/-/blob/master/content/en/university-apprentices">
 </cta-button>
+
+<br></br>

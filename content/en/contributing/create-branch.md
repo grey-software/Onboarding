@@ -7,7 +7,7 @@ category: Contributing
 
 ## Why branch off?
 
-Before modifying our org repository, you'll first create a branch where you can do your work on a copy of the repository without impacting the main branch.
+Before modifying our org repository, you'll first create a branch where you can do your work on a copy of the repository without impacting the main or master branch.
 
 ## Action Items
 

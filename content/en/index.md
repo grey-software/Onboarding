@@ -13,4 +13,4 @@ If you know your way around Github, Gitlab, and other OSS tools, this will be a 
 
 We hope that the development tools and configuration settings we recommend enhance your OSS journey.
 
-**[Let's take a look at an overview of you're onboarding process!](/overview)**
+**[Let's take a look at an overview of your onboarding process!](/overview)**
