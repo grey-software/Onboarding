@@ -5,7 +5,7 @@ position: 2
 category: Setup
 ---
 
-We'll start off our setup process by equipping you with the accounts you need to start working with our team. 
+We'll start our setup process by equipping you with the accounts you need to start working with our team. 
 
 We know nobody likes having to create a bunch of accounts to begin work, so we've given descriptions of our use cases.
 
@@ -23,8 +23,7 @@ Organizations rely on GitLab’s source code management, CI/CD, security, and mo
 
 <alert>
 Why do we use both Github and Gitlab?
-We use Gitlab for our primary development operations because we found it to be more conducive to handle the complexity of software project management, and we use GitHub because of it's vast community, classroom platform, and sponsorships program.
-</alert>
+We use Gitlab for our primary development operations because we found it more conducive to handling the complexity of software project management. We use GitHub because of its vast community, classroom platform, and sponsorships program.</alert>
 
 ## HackMD
 

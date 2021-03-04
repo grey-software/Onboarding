@@ -12,7 +12,9 @@ category: Outro
 We are currently building a large online open source ecosystem for software development education. You can visit our ecosystem websites to learn and discover more. 
 
 https://ecosystem.grey.software
+
 https://learn.grey.software
+
 https://glossary.grey.software
 
 ### Looking for an open source project to contribute to 

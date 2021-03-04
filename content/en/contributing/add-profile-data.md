@@ -11,7 +11,7 @@ category: Contributing
 
 YAML is a flexible, data-oriented language that is mostly used to write configuration files. 
 
-YFM is an optional section of valid YAML that is placed at the top of a page and is used for maintaining metadata for the page and its contents.
+YAML FrontMatter is an optional section of YAML code on top of Markdown files to maintain metadata for a page and its contents.
 
 <alert>
 The word Frontmatter comes from the term for the pages that precede the main text of a book, such as the title page and preface.

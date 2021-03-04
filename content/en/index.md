@@ -7,7 +7,7 @@ category: Intro
 
 Welcome to the **Grey Software Onboarding Process**. We are delighted to have you join our mission to empower people to create and use open-source software (OSS). 
 
-If you are new to the world of OSS development, this will be a great opportunity for you to get your first contribution.
+If you are new to the world of OSS development, this will be an excellent opportunity for you to make your first contribution.
 
 If you know your way around Github, Gitlab, and other OSS tools, this will be a straightforward guide for registering yourself as part of the Grey Software organization.
 
