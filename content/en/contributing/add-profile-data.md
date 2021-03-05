@@ -83,4 +83,11 @@ If you are a university apprentice, find your university's page under the /conte
 <cta-button text="Universities Folder" link="https://gitlab.com/grey-software/org/-/blob/master/content/en/university-apprentices">
 </cta-button>
 
+### Open source explorers
+
+If you're new to open source development and you would like to make a contribution to leave your mark on the open source world, our explorers file is your perfect chance!
+
+<cta-button text="Explorers File" link="https://gitlab.com/grey-software/org/-/blob/master/content/en/team/open-source-explorers.md">
+</cta-button>
+
 <br></br>
