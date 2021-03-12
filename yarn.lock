@@ -6699,10 +6699,10 @@ num2fraction@^1.2.2:
   resolved "https://registry.yarnpkg.com/num2fraction/-/num2fraction-1.2.2.tgz#6f682b6a027a4e9ddfa4564cd2589d1d4e669ede"
   integrity sha1-b2gragJ6Tp3fpFZM0lidHU5mnt4=
 
-nuxt-content-docs-theme-grey@^0.11.3:
-  version "0.11.3"
-  resolved "https://registry.yarnpkg.com/nuxt-content-docs-theme-grey/-/nuxt-content-docs-theme-grey-0.11.3.tgz#2c712e6f3ba81886281f5c8484762b394f0b11d6"
-  integrity sha512-uw5atOn20CWWXQCIPoMbVE7EzzGJlJpnC5EOrylysYyWHT1T6YAKFRi62powwBSVwRi67EEwhTSuj7Zs9wFeOQ==
+nuxt-content-theme-grey-docs@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/nuxt-content-theme-grey-docs/-/nuxt-content-theme-grey-docs-0.1.1.tgz#beffd0fa4806647e65e3d5b72f86f6e3287739bb"
+  integrity sha512-F2YLp4MqnAOXRUWi0VwDg+gyy2SjKn51LLDAtNCrtfvQqekXHSgi13fXolr1qVaCRPKxjjWwKbwkRs9+KuOkaw==
   dependencies:
     "@docsearch/css" "^1.0.0-alpha.28"
     "@docsearch/js" "^1.0.0-alpha.28"

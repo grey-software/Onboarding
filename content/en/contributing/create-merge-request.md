@@ -24,7 +24,9 @@ We now need to merge these changes into the master branch of the source reposito
 
 ## Action Items
 
-✅ Click on the **create merge request** as shown in the below figure
+### ✅ Create a merge request
+
+Click on the **create merge request** button from your branch's page
 
 ![Creating your merge request](/create-merge-request.png)
 
@@ -41,7 +43,7 @@ and Submit the Merge Request to the Reviewer.
 
 Your reviewer will review your changes and merge them into the master branch if accepted.
 
-Now...we wait!
+### ✅ Now...we wait!
 
 Once your merge request has been approved, head over to your designated team page inside of https://org.grey.software and you'll see your Profile Card.
 

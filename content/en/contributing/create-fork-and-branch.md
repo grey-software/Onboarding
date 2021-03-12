@@ -22,16 +22,20 @@ Before modifying our org repository, you'll first create a branch where you can 
 
 ## Action Items
 
-✅ Head over to **https://gitlab.com/grey-software/org** and fork the repository.
+### ✅ Fork the repository.
 
-Select your user namespace, which will be https://gitlab.com/YOUR_GITLAB_USERNAME/org
+Head over to **https://gitlab.com/grey-software/org** and click the fork button.
+
+When you get lab asks you which name space you would like to fuck the repository under your user namespace, which will be https://gitlab.com/YOUR_GITLAB_USERNAME/org
 
 ![Forking the org website repository](/forking.png)
 
-✅ Create a new branch for your onboarding work inside of your fork. 
+### ✅ Create a new branch 
+
+You will use this branch for your onboarding work inside of your fork. 
 
 ![Creating a new branch](/creating-your-branch.png)
 
-✅ Name your branch as follows: *onboarding_* + **Your Gitlab Username**
+**Name your branch as follows: *onboarding_* + _Your_Gitlab_Username_**
 
 ![Creating a new branch](/naming-your-branch.png)
