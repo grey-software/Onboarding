@@ -26,7 +26,7 @@ Before modifying our org repository, you'll first create a branch where you can 
 
 Head over to **https://gitlab.com/grey-software/org** and click the fork button.
 
-When you get lab asks you which name space you would like to fuck the repository under your user namespace, which will be https://gitlab.com/YOUR_GITLAB_USERNAME/org
+When you get lab asks you which name space you would like to fork the repository under your user namespace, which will be https://gitlab.com/YOUR_GITLAB_USERNAME/org
 
 ![Forking the org website repository](/forking.png)
 
