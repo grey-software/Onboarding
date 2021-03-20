@@ -5,16 +5,26 @@ position: 3
 category: Learning YAML
 ---
 
-Congratulations on getting your accounts and development tools up! 🏁
+**Kudos** to you on learning Markdown Language 🏁
 
-Before we get to your first contribution, we would like to ensure you know one more language that's essential to how we communicate over the web: 
+**YAML (YAML Ain't Markup Language)** human-readable data-serialization language for common everyday tasks and also a complete reference of the information needed to develop applications for processing YAML.
+YAML was specifically created for common use cases such as log files, interprocess messaging, configuration files,cross-language data sharing, object persistence, and debugging of complex data structures. 
+When data is easy to view and understand, programming becomes a simpler task.
 
-Markdown offers a simple way for people who code and those who don't to write and format text without having to rely on HTML or WYSIWYG editors.
+### The design goals for YAML are
+
+1. YAML is easily readable by humans. 
+2. YAML matches the native data structures of agile languages. 
+3. YAML data is portable between programming languages. 
+4. YAML has a consistent model to support generic tools. 
+5. YAML supports one-pass processing. 
+6. YAML is expressive and extensible. 
+7. YAML is easy to implement and use
 
 <alert>
-In computing, WYSIWYG, an acronym for What You See Is What You Get, is a system in which editing software allows content to be edited in a form that resembles its appearance when printed or displayed as a finished product, such as a printed document, web page, or slide presentation. Wikipedia
+
+Relation with XML
+
+YAML is a data serialization language while XML is designed to be backward compatible with the Standard Generalized Markup Language (SGML).  XML is designed to support structured documentation, where YAML is more closely targeted at data structures and messaging. 
+
 </alert>
-
-Markdown is a more intuitive alternative to HTML because you save time by not having to close HTML tags.
-
-For those using a WYSIWYG editor, Markdown allows you to keep your fingers on the keyboard when formatting text, so you don't have to grab the mouse in order to select and format your text before returning to typing. 
