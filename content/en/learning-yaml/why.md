@@ -1,7 +1,7 @@
 ---
 title: Why Learn YAML
 description: ""
-position: 3
+position: 6
 category: Learning YAML
 ---
 
