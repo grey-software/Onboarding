@@ -5,11 +5,9 @@ position: 6
 category: Learning YAML
 ---
 
-**Kudos** to you on learning Markdown Language 🏁
-
-**YAML (YAML Ain't Markup Language)** human-readable data-serialization language for common everyday tasks and also a complete reference of the information needed to develop applications for processing YAML.
-YAML was specifically created for common use cases such as log files, interprocess messaging, configuration files,cross-language data sharing, object persistence, and debugging of complex data structures. 
-When data is easy to view and understand, programming becomes a simpler task.
+YAML is a human-readable data serialization language mainly used for configuration files 
+and in applications in order to store or transmitted data. It is widely used by many programming languages 
+like Java, Python, GoLang, and as a configuration language by Kubernetes, Docker Compose, Ansible, etc.
 
 ### The design goals for YAML are
 

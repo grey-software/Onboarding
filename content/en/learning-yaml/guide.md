@@ -6,6 +6,10 @@ category: Learning YAML
 ---
 ## Collections
 
+This section provides a quick glimpse into the expressive power of YAML. 
+It is not expected that the first-time reader grok all of the examples. 
+Rather, these selections are used as motivation for the remainder of the specification.
+
 ### Sequence
 
 <code-group>
@@ -107,6 +111,27 @@ category: Learning YAML
     hr: 63,
     avg: 0.288
   }
+  ```
+ </code-block>
+
+ 
+
+</code-group>
+
+## Separate directives
+
+<code-group>
+
+<code-block label="YAML" active>
+
+ ```
+---
+Time: 2021-03-27 15:01:42 +5 
+User: ed
+Warning:
+  This is an error message
+  for the log file
+---
   ```
  </code-block>
 
