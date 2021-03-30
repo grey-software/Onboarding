@@ -159,5 +159,20 @@ Warning:
 
 ## Scalar indicators
 
+<code-group>
 
+<code-block label="YAML" active>
 
+ ```
+    '''' : Surround in-line unescaped scalar ('' escaped ').
+    '"'  : Surround in-line escaped scalar.
+    '|'  : Block scalar indicator.
+    '>'  : Folded scalar indicator.
+    '-'  : Strip chomp modifier ('|-' or '>-').
+    '+'  : Keep chomp modifier ('|+' or '>+').
+    1-9  : Explicit indentation modifier ('|1' or '>2').
+           # Modifiers can be combined ('|2-', '>+1').
+  ```
+ 
+
+</code-group>
