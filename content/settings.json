@@ -2,8 +2,8 @@
   "title": "Onboarding",
   "url": "https://onboarding.grey.software/",
   "logo": {
-    "light": "/icon.png",
-    "dark": "/icon.png"
+    "light": "/icon-light.png",
+    "dark": "/icon-dark.png"
   },
   "githubUrl": "https://github.com/grey-software",
   "gitlabUrl": "https://gitlab.com/grey-software",
