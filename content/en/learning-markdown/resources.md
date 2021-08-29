@@ -1,7 +1,7 @@
 ---
 title: Additional Resources
-description: ''
-position: 5
+description: ""
+position: 2002
 category: Learning Markdown
 ---
 
@@ -16,7 +16,3 @@ category: Learning Markdown
 <youtube-video video-id="HUBNt18RFbo" start="65" end="900">
 
 </youtube-video>
-
-
-
-

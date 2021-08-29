@@ -1,7 +1,7 @@
 ---
 title: Add your profile data
 description: To put your profile up on our organization website, you first need to create a data model and find your subgroup.
-position: 10
+position: 3002
 category: Contributing
 ---
 
@@ -9,7 +9,7 @@ category: Contributing
 
 ### YAML FrontMatter
 
-YAML is a flexible, data-oriented language that is mostly used to write configuration files. 
+YAML is a flexible, data-oriented language that is mostly used to write configuration files.
 
 YAML FrontMatter is an optional section of YAML code on top of Markdown files to maintain metadata for a page and its contents.
 
@@ -23,11 +23,11 @@ The profile cards you see on our [org website's team page](https://org.grey.soft
 
 ➡️ YAML frontmatter that is rendered
 
-➡️ By a Vue component from 
+➡️ By a Vue component from
 
-➡️ Inside a Markdown file that is parsed 
+➡️ Inside a Markdown file that is parsed
 
-➡️ By the Nuxt framework's content module. 
+➡️ By the Nuxt framework's content module.
 
 **But don't worry, you won't have to understand Nuxt or write Vue code to add your profile card**
 
@@ -64,14 +64,14 @@ You can find your avatar link by clicking 'Copy Image Address' after right click
 
 **Staff**
 
-If you are core staff for the organisation, please write your role as discussed with the President under the position field in the data model. 
+If you are core staff for the organisation, please write your role as discussed with the President under the position field in the data model.
 
 <cta-button text="Staff File" link="https://gitlab.com/grey-software/org/-/blob/master/content/en/team/staff.md">
 </cta-button>
 
 **Volunteers**
 
-If you are volunteering for the organisation, please write your role or the project you're working on under the position field in the data model. 
+If you are volunteering for the organisation, please write your role or the project you're working on under the position field in the data model.
 
 <cta-button text="Volunteers File" link="https://gitlab.com/grey-software/org/-/blob/master/content/en/team/volunteers.md">
 </cta-button>

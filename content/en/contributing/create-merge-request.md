@@ -1,7 +1,7 @@
 ---
 title: Create your merge request
 description: To put your profile up on our organization website, you first need to create a data model and find your subgroup.
-position: 11
+position: 3003
 category: Contributing
 ---
 
@@ -12,7 +12,6 @@ When developers around the world to collaborate on large projects, how do they e
 Well...they submit a request to the repository maintainers with merge access to merge their changes. Thus, we have the merge request.
 
 A Merge Request (MR) is a request to merge one branch into another.
-
 
 <alert>
 You may have heard of pull requests and merge request. While both mean the same thing, the difference is that pull request is used by Github and merge request is used by Gitlab. 

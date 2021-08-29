@@ -1,10 +1,11 @@
 ---
 title: Markdown Guide
-description: ''
-position: 4
+description: ""
+position: 2001
 category: Learning Markdown
-link: https://codesandbox.io/embed/z250ko9nvp?fontsize=14&hidenavigation=1&theme=dark&view=preview
+link: https://codesandbox.io/embed/markdown-editor-vue-vuex-forked-gytjh?fontsize=14&hidenavigation=1&theme=dark
 ---
+
 ## Headers
 
 <code-group>
@@ -16,14 +17,18 @@ link: https://codesandbox.io/embed/z250ko9nvp?fontsize=14&hidenavigation=1&theme
 ### H3
 #### H4
 
-  ```
+```
+
   </code-block>
 <code-block label="Output">
 <br></br>
 
 # H1
+
 ## H2
+
 ### H3
+
 #### H4
 
  </code-block>
@@ -34,15 +39,15 @@ link: https://codesandbox.io/embed/z250ko9nvp?fontsize=14&hidenavigation=1&theme
 <code-group>
 <code-block label="Markdown" active>
 
+```
+*asterisks* or _underscores_
+```
 
-  ```
-  *asterisks* or _underscores_
-  ```
  </code-block>
 
  <code-block label="Output">
 
- *asterisks* or _underscores_
+_asterisks_ or _underscores_
 
  </code-block>
 </code-group>
@@ -52,15 +57,15 @@ link: https://codesandbox.io/embed/z250ko9nvp?fontsize=14&hidenavigation=1&theme
 <code-group>
 <code-block label="Markdown" active>
 
-  
-  ```
-  **asterisks** or __underscores__
-  ```
+```
+**asterisks** or __underscores__
+```
+
  </code-block>
 
  <code-block label="Output">
 
-  **asterisks** or __underscores__
+**asterisks** or **underscores**
 
  </code-block>
 </code-group>
@@ -70,34 +75,33 @@ link: https://codesandbox.io/embed/z250ko9nvp?fontsize=14&hidenavigation=1&theme
 <code-group>
 <code-block label="Markdown" active>
 
-  
-   ```
-  ~~Scratch this.~~
-  ```
+```
+~~Scratch this.~~
+```
+
  </code-block>
 
  <code-block label="Output">
 
-  
- ~~Scratch this.~~
+~~Scratch this.~~
 
  </code-block>
 </code-group>
-
 
 ## Inline-style link
 
 <code-group>
 <code-block label="Markdown" active>
 
- ```
-  [I'm an inline-style link](https://grey.software/)
-  ```
+```
+ [I'm an inline-style link](https://grey.software/)
+```
+
  </code-block>
 
  <code-block label="Output">
 
- [I'm an inline-style link](https://grey.software/)
+[I'm an inline-style link](https://grey.software/)
 
  </code-block>
 </code-group>
@@ -108,14 +112,15 @@ link: https://codesandbox.io/embed/z250ko9nvp?fontsize=14&hidenavigation=1&theme
 
 <code-block label="Markdown" active>
 
- ```
-  [I'm an inline-style link with title](https://grey.software/ "Grey Software")
-  ```
+```
+ [I'm an inline-style link with title](https://grey.software/ "Grey Software")
+```
+
  </code-block>
 
  <code-block label="Output">
 
- [I'm an inline-style link with title](https://grey.software/ "Grey Software")
+[I'm an inline-style link with title](https://grey.software/ "Grey Software")
 
  </code-block>
 
@@ -126,17 +131,18 @@ link: https://codesandbox.io/embed/z250ko9nvp?fontsize=14&hidenavigation=1&theme
 <code-group>
 <code-block label="Markdown" active>
 
-```
+````
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);```
-    
-```
+
+````
+
  </code-block>
 
  <code-block label="Output">
 
- ```javascript
+```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
@@ -144,18 +150,18 @@ alert(s);
  </code-block>
 </code-group>
 
-
 ## Code and Syntax Highlighting Using Python
 
 <code-group>
 <code-block label="Markdown" active>
 
-```
+````
 ```python
 s = "Python syntax highlighting"
 print s```
-    
-```
+
+````
+
  </code-block>
 
  <code-block label="Output">
@@ -187,8 +193,8 @@ print s
  </code-block>
 </code-group>
 
-
 ## Tables
+
 <code-group>
 <code-block label="Markdown" active>
 
@@ -205,17 +211,16 @@ print s
 
  <code-block label="Output">
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Tables        |      Are      |   Cool |
+| ------------- | :-----------: | -----: |
+| col 3 is      | right-aligned | \$1600 |
+| col 2 is      |   centered    |   \$12 |
+| zebra stripes |   are neat    |    \$1 |
 
  </code-block>
 </code-group>
 
 ## Blockquotes
-
 
 <code-group>
 <code-block label="Markdown" active>
@@ -250,7 +255,6 @@ print s
 </dl>
 ```
 
-
  </code-block>
 
  <code-block label="Output">
@@ -266,6 +270,6 @@ print s
  </code-block>
 </code-group>
 
-
 ## Markdown Playground
+
 <code-sandbox :src="link"></code-sandbox>

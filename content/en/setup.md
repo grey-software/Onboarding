@@ -1,11 +1,11 @@
 ---
 title: Essential Accounts
 description: ""
-position: 2
+position: 1000
 category: Setup
 ---
 
-We'll start our setup process by equipping you with the accounts you need to start working with our team. 
+We'll start our setup process by equipping you with the accounts you need to start working with our team.
 
 We know nobody likes having to create a bunch of accounts to begin work, so we've given descriptions of our use cases.
 

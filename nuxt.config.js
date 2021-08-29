@@ -1,4 +1,4 @@
-import theme from 'nuxt-content-theme-grey-docs'
+import theme from 'grey-docs'
 
 export default theme({
     components: true,
