@@ -10,7 +10,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "grey-docs": "^0.7.9",
+    "grey-docs": "^0.8.0",
     "nuxt": "^2.15.8"
   }
 }
