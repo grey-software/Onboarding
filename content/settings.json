@@ -9,5 +9,8 @@
   "gitlabUrl": "https://gitlab.com/grey-software",
   "discordUrl": "http://community.grey.software",
   "linkedinUrl": "https://www.linkedin.com/company/grey-software/",
-  "twitter": "/grey-software"
+  "twitter": "grey_software",
+  "gitlabRepoId": "23928336",
+  "gitlabRepoPath": "grey-software/onboarding",
+  "pathToDocsInRepo": "."
 }
