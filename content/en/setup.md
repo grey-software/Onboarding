@@ -25,18 +25,6 @@ Organizations rely on GitLab’s source code management, CI/CD, security, and mo
 Why do we use both Github and Gitlab?
 We use Gitlab for our primary development operations because we found it more conducive to handling the complexity of software project management. We use GitHub because of its vast community, classroom platform, and sponsorships program.</alert>
 
-## HackMD
-
-HackMD allows you to work on Markdown files and collaborate with your teammates in real time. At Grey Software, we use HackMD as our Google Docs or Microsoft Word alternative for collaborating on team documents.
-
-<cta-button link="https://hackmd.io/join" text="Sign Up" > </cta-button>
-
-## Discord
-
-Discord is a voice, video and text communication service used by over a hundred million people to hang out and talk with their communities. We have a server on Discord where you can reach our community members to talk about software or get help.
-
-<cta-button link="http://community.grey.software" text="Sign Up" > </cta-button>
-
 ## LinkedIn
 
 LinkedIn is the largest social community for working professionals on the planet. We use LinkedIn to verify the identities of our contributors and raise awareness about the importance of open-source software amongst the world's professionals.
