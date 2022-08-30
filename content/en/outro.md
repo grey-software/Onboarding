@@ -5,20 +5,16 @@ position: 4000
 category: Outro
 ---
 
-## If you are:
+## If You Are:
 
-### Eager to continue learning
+### Eager To Continue Learning
 
-We are currently building a large online open source ecosystem for software development education. You can visit our ecosystem websites to learn and discover more.
+Check out our websites where we create and curate the most up-to-date software resources from professionals and academics worldwide!
 
-<cta-button text="Our Ecosystem" link="https://org.grey.software/ecosystem"></cta-button>
+<cta-button text="Resources" link="https://resources.grey.software"></cta-button> <cta-button text="Learning Content" link="https://learn.grey.software"></cta-button>
 
-### Looking for an open source project to contribute to
+### Seeking Guidance & Mentorship
 
-We have a number of open source products and general administrative software projects that you could take on. Learn more at https://org.grey.software/projects
+Please connect with [Arsala on LinkedIn](https://www.linkedin.com/in/arsalabangash/) with the message "Resources and Guidance" and we can create a self-paced plan for you!
 
-### Seeking for guidance and mentorship
-
-You can join our discord community and ask questions about software development or professional guidance.
-
-<cta-button text="Join Discord" link="https://discord.com/invite/2CGKQEe9xw"></cta-button>
+<cta-button text="Connect" link="https://www.linkedin.com/in/arsalabangash/"></cta-button>
