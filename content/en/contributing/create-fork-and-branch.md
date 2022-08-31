@@ -5,7 +5,7 @@ position: 3001
 category: Contributing
 ---
 
-## Why fork and branch?
+## Why Fork & Branch?
 
 _Let's take a step back because we're going to introduce a lot of terms and concepts in the coming section._
 

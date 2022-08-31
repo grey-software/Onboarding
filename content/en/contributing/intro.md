@@ -5,15 +5,11 @@ position: 3000
 category: Contributing
 ---
 
-Congratulations on setting up your accounts and familiarizing yourself with Markdown! 🥳
+Congratulations on setting up your accounts and learning with Markdown! 🥳
 
 You're now ready to get started with your first contribution to Grey Software!💪
 
-You'll use modern software development tools to add your profile to https://org.grey.software/team _without leaving your browser_!
-
-By the end, your profile card will show up on our org website like this:
-
-![Org Website Team](/org-website-team.png)
+You'll use Markdown and Gitlab to add your profile to our [explorers page](https://org.grey.software/team/open-source-explorers/)!
 
 <alert>
 Our contribution guide will include a little bit of software development theory that you may or may not be familiar with.
