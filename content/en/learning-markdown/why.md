@@ -7,14 +7,47 @@ category: Learning Markdown
 
 Congratulations on getting your accounts and development tools up! 🏁
 
-Before we get to your first contribution, we would like to ensure you know one more language that's essential to how we communicate over the web:
+Your next step is learning a language that's essential to how we communicate over the web: **Markdown!**
 
-Markdown offers a simple way for people who code and those who don't to write and format text without having to rely on HTML or WYSIWYG editors.
+<code-group>
+<code-block label="Markdown" active>
+
+```
+# Markdown Is Awesome ❤️
+
+It allows us to publish web content without having to write in `<html>` tags!
+
+- You can make lists
+- You can **emphasize** words
+- You can *italicize* words
+
+And so much more! 
+
+```
+
+  </code-block>
+<code-block label="Output">
+<br></br>
+
+# Markdown Is Awesome ❤️
+
+It allows us to publish web content without having to write in `<html>` tags!
+
+- You can make lists
+- You can **emphasize** words
+- You can *italicize* words
+
+And so much more! 
+
+ </code-block>
+</code-group>
+
+Markdown offers a simple way for everyone on the web to communicate without having to rely on HTML or _WYSIWYG_ editors.
 
 <alert>
-In computing, WYSIWYG, an acronym for What You See Is What You Get, is a system in which editing software allows content to be edited in a form that resembles its appearance when printed or displayed as a finished product, such as a printed document, web page, or slide presentation. Wikipedia
+In computing, WYSIWYG is an acronym for What You See Is What You Get. 
+
+Examples of WYSIWYG editors include Microsoft Word and Google Docs!
 </alert>
 
-Markdown is a more intuitive alternative to HTML because you save time by not having to close HTML tags.
-
-For those using a WYSIWYG editor, Markdown allows you to keep your fingers on the keyboard when formatting text, so you don't have to grab the mouse in order to select and format your text before returning to typing.
+💡 For those using a WYSIWYG editor, Markdown allows you to keep your fingers on the keyboard when formatting text, so you don't have to grab the mouse in order to select and format your text before returning to typing.

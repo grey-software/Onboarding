@@ -5,7 +5,7 @@ position: 3003
 category: Contributing
 ---
 
-## You can merge your changes, but ask nicely :)
+## Marging Your Changes
 
 When developers around the world to collaborate on large projects, how do they ensure that there is order when merging branches back into the main or master branch?
 
@@ -23,28 +23,23 @@ We now need to merge these changes into the master branch of the source reposito
 
 ## Action Items
 
-### ✅ Create a merge request
+### ✅ Create A Merge Request (MR)
 
-Click on the **create merge request** button from your branch's page
+Click on the **Create Merge Request** button from your branch's page
 
 ![Creating your merge request](/create-merge-request.png)
 
-Inside your Merge Pull Request,
-
-- **Assignees** -> Assign to yourself
-- **Reviewer** -> ArsalaBangash
-- **Label** -> Type::Onboarding
-- [x] Delete source branch when merge request is accepted.
+Inside your MR, don't worry about any details other than the title!
 
 and Submit the Merge Request to the Reviewer.
 
 ![Your new merge request](/new-merge-request.png)
 
-Your reviewer will review your changes and merge them into the master branch if accepted.
+Someone from our team will review your changes and merge them into the master branch if accepted.
 
 ### ✅ Now...we wait!
 
-Once your merge request has been approved, head over to your designated team page inside of https://org.grey.software and you'll see your Profile Card.
+Once your merge request has been approved, head over to our [explorers page](https://org.grey.software/team/open-source-explorers/)! and you'll see your profile card.
 
 ![alt text](/output.png "Merge Request")
 
