@@ -10,12 +10,10 @@ By the end of your onboarding process, we hope to equip you with the essential o
 This preparation is made up of:
 
 - **Setting you up with essential accounts** 
-- **Providing guidance and resources to help you learn core concepts and tools that facilitate distributed software development**
-- **Walking you through an example development workflow that will give you applied experience with our tools and processes**
+- **Teaching you Markdown**
+- **Giving you an applied exercise on Gitlab**
 
-By the end, you'll have your profile card on on our [explorers page]()
-
-![Org Website Team](/org-website-team.png)
+By the end, you'll have your profile card on on our [explorers page](https://org.grey.software/team/open-source-explorers/)
 
 **[Let's get started!](/setup)**
 

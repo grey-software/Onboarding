@@ -7,7 +7,7 @@ category: Contributing
 
 ## Your profile's data model
 
-### YAML FrontMatter
+### Introducing YAML FrontMatter
 
 YAML is a flexible, data-oriented language that is mostly used to write configuration files.
 
@@ -19,19 +19,9 @@ The word Frontmatter comes from the term for the pages that precede the main tex
 
 ### Profile Data in YAML Frontmatter
 
-The profile cards you see on our [org website's team page](https://org.grey.software/team) come from:
+The profile cards you see on our [explorers page](https://org.grey.software/team/open-source-explorers/)! get their data from YAML frontmatter.
 
-➡️ YAML frontmatter that is rendered
-
-➡️ By a Vue component from
-
-➡️ Inside a Markdown file that is parsed
-
-➡️ By the Nuxt framework's content module.
-
-**But don't worry, you won't have to understand Nuxt or write Vue code to add your profile card**
-
-We've configured the website so that simply adding your profile to the YAML frontmatter can render your profile card on the website!
+We've configured the website so that simply adding your profile data can render your profile card on the website!
 
 ![YAML](/team-yaml.png)
 

@@ -3,8 +3,12 @@ title: Markdown Guide
 description: ""
 position: 2001
 category: Learning Markdown
-link: https://codesandbox.io/embed/markdown-editor-vue-vuex-forked-gytjh?fontsize=14&hidenavigation=1&theme=dark
+link: https://codesandbox.io/s/markdown-editor-vue-vuex-forked-gytjh?from-embed=&file=/src/store/editor.module.js
 ---
+
+## Try It Yourself
+
+<code-sandbox :src="link"></code-sandbox>
 
 ## Headers
 
@@ -240,36 +244,3 @@ print s
  </code-block>
 </code-group>
 
-## Inline HTML
-
-<code-group>
-<code-block label="Markdown" active>
-
-```
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-```
-
- </code-block>
-
- <code-block label="Output">
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
- </code-block>
-</code-group>
-
-## Markdown Playground
-
-<code-sandbox :src="link"></code-sandbox>
