@@ -23,11 +23,14 @@ The profile cards you see on our [explorers page](https://org.grey.software/team
 
 We've configured the website so that simply adding your profile data can render your profile card on the website!
 
-![YAML](/team-yaml.png)
-
-![Nuxt Content Vue Component](/team-vue.png)
-
 ## Action Items
+
+### ✅ Locate the Explorers File
+
+You'll find the explorer file at `/content/en/team/open-source-explorers.md`
+
+<cta-button text="Explorers File" link="https://gitlab.com/grey-software/org/-/blob/master/content/en/team/open-source-explorers.md">
+</cta-button>
 
 ### ✅ Create Your Profile Data Model
 
@@ -49,12 +52,5 @@ linkedin: YOUR_LINKEDIN_LINK
 <alert>
 You can find your avatar link by clicking 'Copy Image Address' after right clicking on your Github or Gitlab profile picture. 
 </alert>
-
-### ✅ Locate the Explorers File
-
-You'll find the explorer file at `/content/en/team/open-source-explorers.md`
-
-<cta-button text="Explorers File" link="https://gitlab.com/grey-software/org/-/blob/master/content/en/team/open-source-explorers.md">
-</cta-button>
 
 <br></br>
