@@ -1,6 +1,6 @@
 ---
 title: Welcome 🎉  
-description: ''
+description: "Welcome to the Grey Software Open Source Onboarding Exercise!"
 position: 1
 category: Intro
 ---

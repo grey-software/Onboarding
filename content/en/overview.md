@@ -1,6 +1,6 @@
 ---
 title: Overview 
-description: ''
+description: "An overview of your open source onboarding exercise."
 position: 2
 category: Intro
 ---

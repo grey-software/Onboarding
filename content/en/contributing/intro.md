@@ -1,6 +1,6 @@
 ---
 title: Intro
-description: ""
+description: "You're now ready to get started with your first contribution to Grey Software!"
 position: 3000
 category: Contributing
 ---
