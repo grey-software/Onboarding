@@ -1,6 +1,6 @@
 ---
 title: Add your profile data
-description: To put your profile up on our organization website, you first need to create a data model and find your subgroup.
+description: "To put your profile up on our organization website, you first need to create a data model for your profile."
 position: 3002
 category: Contributing
 ---

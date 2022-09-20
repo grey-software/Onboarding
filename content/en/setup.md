@@ -1,6 +1,6 @@
 ---
 title: Essential Accounts
-description: ""
+description: "The essential accounts you need to get started with open-source software development."
 position: 1000
 category: Setup
 ---

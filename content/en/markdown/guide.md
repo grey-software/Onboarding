@@ -1,9 +1,8 @@
 ---
 title: Markdown Guide
-description: ""
+description: "A Markdown guide to help you learn how to communicate with others on the web!"
 position: 2001
 category: Learning Markdown
-link: https://codesandbox.io/s/markdown-editor-vue-vuex-forked-gytjh?from-embed=&file=/src/store/editor.module.js
 ---
 
 ## Headers

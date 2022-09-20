@@ -1,6 +1,6 @@
 ---
 title: Where to go from here
-description: Now that you've registered yourself in the organization, let's explore the next steps in your open-source software development journey
+description: "Now that you've registered yourself in the organization, let's explore the next steps in your open-source software development journey."
 position: 4000
 category: Outro
 ---

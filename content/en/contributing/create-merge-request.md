@@ -1,11 +1,11 @@
 ---
-title: Create your merge request
-description: To put your profile up on our organization website, you first need to create a data model and find your subgroup.
+title: Create Your Merge Request
+description: "After committing your changes on your forked repo, we need to merge these changes into the master branch of the source repo."
 position: 3003
 category: Contributing
 ---
 
-## Marging Your Changes
+## Background
 
 When developers around the world to collaborate on large projects, how do they ensure that there is order when merging branches back into the main or master branch?
 

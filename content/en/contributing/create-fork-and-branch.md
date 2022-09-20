@@ -1,6 +1,6 @@
 ---
 title: Fork and branch
-description: Before modifying our org repository, you'll first create a branch where you can do your work on a copy of the repository without impacting the main branch.
+description: Before modifying our org repo, you'll first create a fork where you can do your work on a copy of the repository without impacting the main repo.
 position: 3001
 category: Contributing
 ---
