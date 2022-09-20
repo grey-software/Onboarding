@@ -6,10 +6,6 @@ category: Learning Markdown
 link: https://codesandbox.io/s/markdown-editor-vue-vuex-forked-gytjh?from-embed=&file=/src/store/editor.module.js
 ---
 
-## Try It Yourself
-
-<code-sandbox :src="link"></code-sandbox>
-
 ## Headers
 
 <code-group>
@@ -178,13 +174,24 @@ print s
  </code-block>
 </code-group>
 
-## Image with Title
+## Images
 
 <code-group>
 <code-block label="Markdown" active>
 
 ```
-![alt text](https://grey.software/logo.png "Grey Software")
+### Image With Description
+
+![Grey Software Logo](https://grey.software/logo-black-padded.png)
+
+### Image With Link 
+
+[![Grey Software Logo](https://grey.software/logo-black-padded.png)](https://grey.software)
+
+
+### Image With Title on Hover
+
+[![Grey Software Logo](https://grey.software/logo-black-padded.png "Visit Our Website")](https://grey.software)
 
 ```
 
@@ -192,7 +199,60 @@ print s
 
  <code-block label="Output">
 
-![alt text](https://grey.software/logo.png "Grey Software")
+### Image With Description
+
+![Grey Software Logo](https://grey.software/logo-black-padded.png)
+
+### Image With Link 
+
+[![Grey Software Logo](https://grey.software/logo-black-padded.png)](https://grey.software)
+
+
+### Image With Title on Hover
+
+[![Grey Software Logo](https://grey.software/logo-black-padded.png "Visit Our Website")](https://grey.software)
+
+ </code-block>
+</code-group>
+
+## HTML In Markdown
+
+<code-group>
+<code-block label="Markdown" active>
+
+```
+### A Markdown Heading 
+
+<h3>An HTML Heading</h3>
+```
+
+ </code-block>
+
+ <code-block label="Output">
+
+### A Markdown Heading 
+
+<h3>An HTML Heading</h3>
+
+ </code-block>
+</code-group>
+
+## Blockquotes
+
+<code-group>
+<code-block label="Markdown" active>
+
+```
+> Blockquotes are very handy in email to emulate reply text.
+> This line is part of the same quote.
+```
+
+ </code-block>
+
+ <code-block label="Output">
+
+> Blockquotes are very handy in email to emulate reply text.
+> This line is part of the same quote.
 
  </code-block>
 </code-group>
@@ -224,23 +284,7 @@ print s
  </code-block>
 </code-group>
 
-## Blockquotes
+## Further Learning
 
-<code-group>
-<code-block label="Markdown" active>
-
-```
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
-```
-
- </code-block>
-
- <code-block label="Output">
-
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
-
- </code-block>
-</code-group>
+[The Markdown Guide](https://www.markdownguide.org/) is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.
 
